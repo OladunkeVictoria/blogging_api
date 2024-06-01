@@ -6,4 +6,5 @@ idea/*
 images/*
 !images/gitkeep
 
--.evn
+.evn
+.env.local
